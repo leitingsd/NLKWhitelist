@@ -1,6 +1,6 @@
 # NLKWhitelist
 
-基于 RIAWhitelist 所实现的功能，以 Velocity 插件格式完全重写。
+基于 [RIAWhitelist](https://github.com/ria-AED/riaWhitelist/) 所实现的功能，以 Velocity 插件格式完全重写。
 
 可追踪添加和移除的 Velocity 白名单插件。
 
@@ -15,7 +15,7 @@
 * 基于 RIAWhitelist 所实现的功能，以 Velocity 插件格式完全重写；
 * 不再支持BungeeCord;仅支持Velocity；
 * 移除了RIA特色(指令中所有的/ria前缀,如 /riawladd 更变为 /wladd)；
-* 实现了 RIAWhitelistVelocityReade 的功能；
+* 实现了 [RIAWhitelistVelocityReade](https://github.com/ria-AED/riaWhitelistvelocityReader/) 的功能；
 * 修复了数据库删除数据后再添加时的抽象问题；
 * 对 1.1-SNAPSHOT 的屎山进行重写，并堆出了另一个屎山.d
 
